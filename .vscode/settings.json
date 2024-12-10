@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "timeb.h": "c",
+        "advent4.h": "c"
+    }
+}

@@ -1,3 +1,4 @@
+
 #include "advent4.h"
 #include <stdio.h>
 #include <stdbool.h>

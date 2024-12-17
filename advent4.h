@@ -1,4 +1,4 @@
-const char* ADVENT4MINI[] = {
+const char* const ADVENT4MINI[] = {
     "MMMSXXMASM",
     "MSAMXMSMSA",
     "AMXSXMAAMM",
